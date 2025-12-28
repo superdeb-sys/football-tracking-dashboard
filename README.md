@@ -54,3 +54,4 @@ If the entry point is a Python script: python main.py. You can choose the match 
 
 ### 4) Output
 The project generates: an HTML report and/or analysis outputs saved locally.
+
